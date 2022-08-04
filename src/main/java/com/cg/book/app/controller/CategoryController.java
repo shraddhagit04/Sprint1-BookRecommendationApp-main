@@ -17,7 +17,7 @@ import com.cg.book.app.service.CategoryService;
 
 @RestController
 @RequestMapping("/user")
- @CrossOrigin(origins = "*")
+@CrossOrigin(origins = "*")
 
 public class CategoryController {
 

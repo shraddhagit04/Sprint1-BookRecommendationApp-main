@@ -15,7 +15,7 @@ import com.cg.book.app.service.AuthorService;
 
 @RestController
 @RequestMapping("/user")
- @CrossOrigin(origins = "*")
+@CrossOrigin(origins = "*")
 
 public class AuthorController {
 
